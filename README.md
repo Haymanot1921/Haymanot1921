@@ -78,38 +78,23 @@ modern and scalable web applications.
 
 <!-- ======================= MENUGO ======================= -->
 
-## 🚀 Featured Project
+<!-- ======================= GITHUB STATS ======================= -->
+📊 GitHub Stats
+<div align="center">
 
-### 🍽️ MenuGo — Digital Menu SaaS Platform
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Haymanot1921&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-**MenuGo** is a QR-code-based digital menu and restaurant management
-platform designed to help restaurants manage their menus, tables,
-orders, staff, and restaurant operations digitally.
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haymanot1921&layout=compact&theme=github_dark&hide_border=true" />
 
-### ✨ Features
-
-- 📱 QR Code Digital Menu
-- 🍔 Menu & Category Management
-- 🪑 Restaurant Table Management
-- 🛒 Customer Ordering
-- 👨‍🍳 Kitchen Order Management
-- 👨‍💼 Restaurant Administration
-- 👥 Role-Based Access Control
-- 📊 Analytics
-- 🔐 Authentication & Security
-- 🏢 Multi-Tenant Architecture
-
-### 💻 Technologies
-
-```text
-React + Vite
-       ↓
-Tailwind CSS
-       ↓
-Node.js + Express.js
-       ↓
-Sequelize
-       ↓
-PostgreSQL
-       ↓
-JWT + Socket.IO + Redis
+</div>
+<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haymanot1921&theme=github-compact&hide_border=true&area=true" /> </div>
+<!-- ======================= CONTRIBUTION SNAKE ======================= -->
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/Haymanot1921/Haymanot1921/output/github-contribution-grid-snake.svg" /> </div>
+<!-- ======================= CONTACT ======================= -->
+📫 Contact
+<div align="center"> <a href="https://github.com/Haymanot1921"> <img src="https://img.shields.io/badge/GitHub-Haymanot1921-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> <br> <div align="center">
+💻 Building Today • Learning Every Day • Growing for Tomorrow
+<img src="https://komarev.com/ghpvc/?username=Haymanot1921&label=Profile%20Views&style=flat" /> </div> ```
