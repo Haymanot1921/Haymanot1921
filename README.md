@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Haymanot+Wondmagegn;Software+Engineering+Student;React+Developer+%7C+Full-Stack+Developer;Building+Modern+Web+Applications;Learning+Backend+%7C+System+Design+%7C+AI" />
 
 <p>
-  <strong>Software Engineering Student • Full-Stack Developer • React Developer</strong>
+  <strong>Software Engineering  • Full-Stack Developer • React Developer</strong>
 </p>
 
 <p>
@@ -20,10 +20,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering Student** passionate about building
+I'm a **Software Engineering ** passionate about building
 modern and scalable web applications.
 
-- 🎓 Software Engineering Student
+- 🎓 Software Engineering 
 - ⚛️ Focused on React and modern frontend development
 - 🚀 Learning Full-Stack Web Development
 - 🔧 Learning Backend Development and REST APIs
